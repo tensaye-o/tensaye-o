@@ -1,3 +1,1 @@
-<h3>
-  <img width="100" src="./greetings.svg" />
-</h3>
+<img src="./waving-hand.svg" />
